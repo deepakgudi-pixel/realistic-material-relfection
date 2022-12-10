@@ -61,7 +61,7 @@ function init() {
 
       const sphereMaterial = {
         clearcoat: 1.0,
-        cleacoatRoughness: 0.1,
+        clearcoatRoughness: 0.1,
         metalness: 0.9,
         roughness: 0.5,
         color: 0xDC3535,
